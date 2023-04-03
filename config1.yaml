@@ -4,7 +4,7 @@ PATIENCE: 3
 WORKERS: 8
 LR: 0.0005
 WD: 0.0
-LR_PATIENCE: 1            # 1 model not improving until lr is decreasing
+LR_PATIENCE: 2            # 1 model not improving until lr is decreasing
 LR_FACTOR: 0.4            # by how much the lr is decreasing
 
 BATCH_SIZE1: 4           # for train

@@ -7,8 +7,8 @@ WD: 0.0
 LR_PATIENCE: 1            # 1 model not improving until lr is decreasing
 LR_FACTOR: 0.4            # by how much the lr is decreasing
 
-BATCH_SIZE1: 2           # for train
-BATCH_SIZE2: 2           # for valid
+BATCH_SIZE1: 4           # for train
+BATCH_SIZE2: 4           # for valid
 
 VERSION: 'v1'
 MODEL: 'resnet50'

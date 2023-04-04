@@ -1,7 +1,7 @@
 # RSNA_Resnet
 Kaggle competition, RSNA Breast Cancer Detection - Image Classification using ResNet50
 
-Files used to participate in Kaggle competition. 
+Files used to participate in Kaggle competition https://www.kaggle.com/competitions/rsna-breast-cancer-detection
 
 ---------
 src 
